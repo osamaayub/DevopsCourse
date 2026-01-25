@@ -2,7 +2,7 @@
   "name": "devopscourse",
   "version": "1.0.0",
   "description": "Hello Git! from Osama",
-  "main": "Hello.js",
+  "main": "dockers_course/Hello.js",
   "scripts": {
     "run": "node index.js",
     "test": "node test.js"
