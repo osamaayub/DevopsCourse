@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e73ef33d-e5c9-43e3-bebe-6c585f126a57" name="Changes" comment="resolved merge conflicts regarding yaml file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e73ef33d-e5c9-43e3-bebe-6c585f126a57" name="Changes" comment="resolved merge conflicts regarding yaml file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769253314520</updated>
       <workItem from="1769253323224" duration="25291000" />
-      <workItem from="1769853270544" duration="7466000" />
+      <workItem from="1769853270544" duration="7852000" />
     </task>
     <task id="LOCAL-00001" summary="resolved merge conflicts regarding yaml file">
       <option name="closed" value="true" />
